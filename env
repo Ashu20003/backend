@@ -1,0 +1,3 @@
+# MONGO_URI="mongodb://localhost:27017/backend"
+
+MONGO_URI="mongodb+srv://ashwiniwanjre:Ashu@1922@cluster0.4ch72.mongodb.net/backend?retryWrites=true&w=majority&appName=Cluster0"
